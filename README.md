@@ -1,5 +1,4 @@
-### Hi there 👋
-# 💫 About Me:
+# 👋 Hi there:
 ¡Hola! Soy Miguel Angel, un estudiante apasionado del desarrollo front-end en Alura Latam. Me encanta explorar la tecnología, especialmente en cómo avanzan constantemente para crear experiencias más dinámicas y atractivas para los usuarios.
 
 
